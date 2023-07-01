@@ -1,0 +1,15 @@
+C:\Users\ROHIT\Desktop\.NetAssignment\FindValidDate\bin\MCD\Debug\net6.0\FindValidDate.exe
+C:\Users\ROHIT\Desktop\.NetAssignment\FindValidDate\bin\MCD\Debug\net6.0\FindValidDate.deps.json
+C:\Users\ROHIT\Desktop\.NetAssignment\FindValidDate\bin\MCD\Debug\net6.0\FindValidDate.runtimeconfig.json
+C:\Users\ROHIT\Desktop\.NetAssignment\FindValidDate\bin\MCD\Debug\net6.0\FindValidDate.dll
+C:\Users\ROHIT\Desktop\.NetAssignment\FindValidDate\bin\MCD\Debug\net6.0\FindValidDate.pdb
+C:\Users\ROHIT\Desktop\.NetAssignment\FindValidDate\obj\MCD\Debug\net6.0\FindValidDate.csproj.AssemblyReference.cache
+C:\Users\ROHIT\Desktop\.NetAssignment\FindValidDate\obj\MCD\Debug\net6.0\FindValidDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROHIT\Desktop\.NetAssignment\FindValidDate\obj\MCD\Debug\net6.0\FindValidDate.AssemblyInfoInputs.cache
+C:\Users\ROHIT\Desktop\.NetAssignment\FindValidDate\obj\MCD\Debug\net6.0\FindValidDate.AssemblyInfo.cs
+C:\Users\ROHIT\Desktop\.NetAssignment\FindValidDate\obj\MCD\Debug\net6.0\FindValidDate.csproj.CoreCompileInputs.cache
+C:\Users\ROHIT\Desktop\.NetAssignment\FindValidDate\obj\MCD\Debug\net6.0\FindValidDate.dll
+C:\Users\ROHIT\Desktop\.NetAssignment\FindValidDate\obj\MCD\Debug\net6.0\refint\FindValidDate.dll
+C:\Users\ROHIT\Desktop\.NetAssignment\FindValidDate\obj\MCD\Debug\net6.0\FindValidDate.pdb
+C:\Users\ROHIT\Desktop\.NetAssignment\FindValidDate\obj\MCD\Debug\net6.0\FindValidDate.genruntimeconfig.cache
+C:\Users\ROHIT\Desktop\.NetAssignment\FindValidDate\obj\MCD\Debug\net6.0\ref\FindValidDate.dll
